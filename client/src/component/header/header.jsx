@@ -1,8 +1,10 @@
 import '../../css/header/header.css'
+import { words } from '../../words';
+
 const Header = () => {
     return (
         <header>
-      Shopping Cart
+      {words.headerTitle}
         
         </header>
       );
