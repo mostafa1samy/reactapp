@@ -2,8 +2,8 @@ import '../../css/footer/footer.css'
 const Footer = () => {
     return (
         <footer>
-      Shopping Cart
-        
+     
+        &CopyWrite By Mostafa Samy
         </footer>
       );
 }
