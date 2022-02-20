@@ -1,0 +1,34 @@
+.prducts {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.product-item {
+  width: 23%;
+}
+
+.product-item img {
+  width: 100%;
+  height: 150px;
+  padding: 2px;
+  border: ipx solid #c0c0c0;
+}
+
+.product-desc {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  align-items: center;
+  margin-top: 20px;
+}
+
+button {
+  display: block;
+  width: 100%;
+  background-color: #2a5aa5;
+  color: #eee;
+  padding: 7px;
+  border-radius: 6px;
+}
